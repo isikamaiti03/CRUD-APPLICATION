@@ -15,7 +15,7 @@ const Navbar = () => {
     <div>
       <Header position='static'>
             <Toolbar>
-                <Typo to="/">Code for Interview</Typo>
+                <Typo to="/">Home</Typo>
                 <Typo to="/all">All User</Typo>
                 <Typo to="/add">Add User</Typo>
             </Toolbar>
