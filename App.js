@@ -1,12 +1,12 @@
 
 import React from "react";
-import Navbar from "./WeeKPractice/Navbar";
-import Codeforinterview from "./WeeKPractice/Codeforinterview";
-import Alluser from "./WeeKPractice/Alluser";
-import Adduser from "./WeeKPractice/Adduser";
+import Navbar from "./CRUDProject/Navbar";
+import Codeforinterview from "./CRUDProject/Codeforinterview";
+import Alluser from "./CRUDProject/Alluser";
+import Adduser from "./CRUDProject/Adduser";
 import { Routes, Route} from "react-router-dom";
-import EditUser from "./WeeKPractice/EditUser";
-// import './App.css';
+import EditUser from "./CRUDProject/EditUser";
+import './App.css';
 
 
 const App = () => {
